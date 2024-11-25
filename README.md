@@ -19,6 +19,7 @@ Kullanılan Teknolojiler
 - Sosyal Medya Hesapları: Sosyal medya hesapları düzenlenebilir.
 
 Proje Görselleri
+
 ![14](https://github.com/user-attachments/assets/f90e00e5-e454-421f-9883-e3913be04025)
 ![13](https://github.com/user-attachments/assets/2627ca96-c89f-4c61-9230-45f0f489f40c)
 ![12](https://github.com/user-attachments/assets/b02a62a7-69a1-46c3-ae95-1e3a58238366)
