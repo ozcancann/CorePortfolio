@@ -1,0 +1,235 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyPortfolio
+build_property.RootNamespace = MyPortfolio
+build_property.ProjectDir = C:\Users\ozcnc\OneDrive\Masaüstü\Not & Projeler\UdemyC#\Portfolio\MyPortfolio\MyPortfolio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ozcnc\OneDrive\Masaüstü\Not & Projeler\UdemyC#\Portfolio\MyPortfolio\MyPortfolio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/About/AboutList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/About/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQ3JlYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/About/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcVXBkYXRlQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Contact/ContactList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDb250YWN0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Contact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxDcmVhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Contact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxVcGRhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Experience/CreateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxDcmVhdGVFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Experience/ExperienceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxFeHBlcmllbmNlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Experience/UpdateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxVcGRhdGVFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Feature/CreateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxDcmVhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Feature/FeatureList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxGZWF0dXJlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Feature/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVhdHVyZVxVcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Layout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Message/Inbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Message/MessageDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Portfolio/CreatePortfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXENyZWF0ZVBvcnRmb2xpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Portfolio/PortfolioList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFBvcnRmb2xpb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Portfolio/UpdatePortfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFVwZGF0ZVBvcnRmb2xpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_AboutComponetPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0Q29tcG9uZXRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_ContactComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbnRhY3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_ExperienceComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0V4cGVyaWVuY2VDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_FeatureComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_FooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_HeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutNavbarComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhckNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_NavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_PortfolioComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BvcnRmb2xpb0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_SkillComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NraWxsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_StatisticsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N0YXRpc3RpY3NDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Components/_TestimonialComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Skill/CreateSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcQ3JlYXRlU2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Skill/SkillList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcU2tpbGxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Skill/UpdateSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcVXBkYXRlU2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/SocialMedia/CreateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcQ3JlYXRlU29jaWFsTWVkaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/SocialMedia/SocialMediaList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcU29jaWFsTWVkaWFMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/SocialMedia/UpdateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29jaWFsTWVkaWFcVXBkYXRlU29jaWFsTWVkaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Statistic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Testimonial/CreateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcQ3JlYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Testimonial/TestimonialList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVGVzdGltb25pYWxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Testimonial/UpdateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxcVXBkYXRlVGVzdGltb25pYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/ToDoList/CreateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcQ3JlYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/ToDoList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/ToDoList/UpdateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcVXBkYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ozcnc/OneDrive/Masaüstü/Not & Projeler/UdemyC\#/Portfolio/MyPortfolio/MyPortfolio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fn2rs6u0d8

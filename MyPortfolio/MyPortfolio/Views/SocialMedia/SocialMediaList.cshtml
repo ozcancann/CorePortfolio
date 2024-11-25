@@ -1,0 +1,54 @@
+﻿@model List<SocialMedia>
+@{
+    ViewData["Title"] = "SocialMediaList";
+    Layout = "~/Views/Layout/Index.cshtml";
+}
+
+<div class="main-panel">
+    <div class="content">
+        <div class="container-fluid">
+            <h4 class="page-title">Sosyal Medya</h4>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title">Sosyal Medya Listesi</div>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-sub">
+                                Sosyal Medya ile ilgili işlemleri aşağıdaki panelden yapabilirsiniz.
+                            </div>
+                            <table class="table mt-3">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Hesap Sırası</th>
+                                        <th scope="col">Başlık</th>
+                                        <th scope="col">Uygulama Icon</th>
+                                        <th scope="col">Hesap URL</th>
+                                        <th scope="col">Sil</th>
+                                        <th scope="col">Güncelle</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.SocialMediaId</td>
+                                            <td>@item.Title</td>
+                                            <td>@item.Icon</td>
+                                            <td>@item.Url</td>
+                                            <td><a href="/SocialMedia/DeleteSocialMedia/@item.SocialMediaId" class="btn btn-outline-danger" style="border-radius:30px">Sil</a></td>
+                                            <td><a href="/SocialMedia/UpdateSocialMedia/@item.SocialMediaId" class="btn btn-outline-success" style="border-radius:30px">Güncelle</a></td>
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                            <a href="/SocialMedia/CreateSocialMedia" class="btn btn-outline-primary" style="border-radius:30px">Yeni Sosyal Medya Girişi</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

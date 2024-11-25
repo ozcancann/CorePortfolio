@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozcnc\\OneDrive\\Masa\u00FCst\u00FC\\Not \u0026 Projeler\\UdemyC#\\Portfolio\\MyPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AE6B9B-B67F-4657-93D6-B7FEBBBFE851}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ozcnc\\onedrive\\masa\u00FCst\u00FC\\not \u0026 projeler\\udemyc#\\portfolio\\myportfolio\\myportfolio\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5AE6B9B-B67F-4657-93D6-B7FEBBBFE851}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\about\\aboutlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AE6B9B-B67F-4657-93D6-B7FEBBBFE851}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\ozcnc\\onedrive\\masa\u00FCst\u00FC\\not \u0026 projeler\\udemyc#\\portfolio\\myportfolio\\myportfolio\\views\\shared\\components\\_layoutnavbarcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C5AE6B9B-B67F-4657-93D6-B7FEBBBFE851}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutnavbarcomponent\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozcnc\\OneDrive\\Masa\u00FCst\u00FC\\Not \u0026 Projeler\\UdemyC#\\Portfolio\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponent\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponent\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ozcnc\\OneDrive\\Masa\u00FCst\u00FC\\Not \u0026 Projeler\\UdemyC#\\Portfolio\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponent\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutNavbarComponent\\Default.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAFYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T19:55:25.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozcnc\\OneDrive\\Masa\u00FCst\u00FC\\Not \u0026 Projeler\\UdemyC#\\Portfolio\\MyPortfolio\\MyPortfolio\\Views\\About\\AboutList.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\About\\AboutList.cshtml",
+              "ToolTip": "C:\\Users\\ozcnc\\OneDrive\\Masa\u00FCst\u00FC\\Not \u0026 Projeler\\UdemyC#\\Portfolio\\MyPortfolio\\MyPortfolio\\Views\\About\\AboutList.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\About\\AboutList.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T19:42:22.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

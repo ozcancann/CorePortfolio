@@ -1,0 +1,94 @@
+﻿@model List<Skill>
+@{
+    ViewData["Title"] = "SkillList";
+    Layout = "~/Views/Layout/Index.cshtml";
+    int count = 0;
+    string color = "";
+    string labelColor = "";
+}
+
+
+<div class="main-panel">
+    <div class="content">
+        <div class="container-fluid">
+            <h4 class="page-title">Yetenekler</h4>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title">Yetenekler Listesi</div>
+                        </div>
+                        <div class="card-body">
+                            <div class="card-sub">
+                                Yetenekler ile ilgili işlemleri aşağıdaki panelden yapabilirsiniz.
+                            </div>
+                            <table class="table mt-3">
+                                <thead>
+                                    <tr>
+                                        <th scope="col">Yetenek Numarası</th>
+                                        <th scope="col">Başlık</th>
+                                        <th scope="col">Yetenek Bar</th>
+                                        <th scope="col">Yetenek Değeri</th>
+                                        <th scope="col">Sil</th>
+                                        <th scope="col">Güncelle</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var x in Model)
+                                    {
+                                        count++;
+                                        if (x.Value >= 0 && x.Value <= 50)
+                                        {
+                                            color = "progress-bar bg-danger";
+                                            labelColor = "badge bg-danger";
+
+                                        }
+                                        else if (x.Value >= 51 && x.Value <= 70)
+                                        {
+                                            color = "progress-bar bg-warning";
+                                            labelColor = "badge bg-warning";
+
+                                        }
+                                        else if (x.Value >= 71 && x.Value <= 84)
+                                        {
+                                            color = "progress-bar bg-primary";
+                                            labelColor = "badge bg-primary";
+
+                                        }
+                                        else if (x.Value >= 85 && x.Value <= 100)
+                                        {
+                                            color = "progress-bar bg-success";
+                                            labelColor = "badge bg-success";
+
+                                        }
+
+                                        <tr>
+                                            <td>@count</td>
+                                            <td>@x.Title</td>
+                                            <td>
+                                                <div class="progress progress-xs">
+                                                    <div class="@color" style="width:@x.Value%"></div>
+                                                </div>
+                                            </td>
+                                            <td><span class="@labelColor text-white">@x.Value%</span></td>
+
+
+
+                                            <td><a href="/Skill/DeleteSkill/@x.SkillId" class="btn btn-outline-danger" style="border-radius:30px">Sil</a></td>
+                                            <td><a href="/Skill/UpdateSkill/@x.SkillId" class="btn btn-outline-success" style="border-radius:30px">Güncelle</a></td>
+
+                                        </tr>
+
+                                    }
+
+                                </tbody>
+                            </table>
+                            <a href="/Skill/CreateSkill" class="btn btn-outline-primary" style="border-radius:30px">Yeni Yetenek Girişi</a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
