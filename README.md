@@ -1,24 +1,28 @@
 Kullanılan Teknolojiler
 
-- ASP.NET CORE 6.0: Modern web uygulamaları için framework.
+ASP.NET CORE 6.0: Modern web uygulamaları için framework.
 
-- MSSQL Server: Veritabanı yönetimi
+MSSQL Server: Veritabanı yönetimi
 
-- LINQ Sorgular: Verileri sorgulama ve manipülasyon için kullanılan güçlü bir dil.
+LINQ Sorgular: Verileri sorgulama ve manipülasyon için kullanılan güçlü bir dil.
 
-- Entity Framework (Code First): Veritabanı işlemleri için kullanılan ORM (Object-Relational Mapping) aracı.
+Entity Framework (Code First): Veritabanı işlemleri için kullanılan ORM (Object-Relational Mapping) aracı.
 
-- View Component’ler: Sayfa yönetimi ve dinamik içerik oluşturma.
+View Component: Sayfa yönetimi ve dinamik içerik oluşturma.
 
-- Mesaj Gönderme Özelliği: Kullanıcı panelinde mesaj gönderme imkanı.
+Mesaj Gönderme Özelliği: Kullanıcı panelinde mesaj gönderme imkanı.
 
-- To-Do List: Yapılacaklar listesi, görevler tamamlandıkça işaretleniyor.
+To-Do List: Yapılacaklar listesi ileri tarihe bir görev eklenebilir ve görevi tamamladıktan sonra görevin yapıldığı bilgisi değiştirilebilir.
 
-- Gelen Mesajlar: Kullanıcıdan gelen mesajlar pop-up olarak görüntüleniyor.
+Sosyal Medya Hesapları: Sosyal medya hesaplarıyla ilgili değişiklikler yapılabilir.
 
-- Sosyal Medya Hesapları: Sosyal medya hesapları düzenlenebilir.
 
-Proje Görselleri
+
+Admin Paneli;
+
+Admin Panelinde To-Do List, İstatistik, Mesaj Kutusu, Hakkımda, Özellikler, Yetenekler, Deneyimler, Projeler, Referanslar, İletişim Bilgileri ve Sosyal Medya Bilgileri sayfalarında CRUD işlemleri sağlanabilir.
+
+Proje Görselleri;
 
 ![14](https://github.com/user-attachments/assets/f90e00e5-e454-421f-9883-e3913be04025)
 ![13](https://github.com/user-attachments/assets/2627ca96-c89f-4c61-9230-45f0f489f40c)
